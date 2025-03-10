@@ -1,5 +1,5 @@
 # nxfl99
-个人菜鸟，脚本问题较多，不推荐使用
+个人菜鸟，个人制作及网络搜集，脚本问题较多，不推荐使用
 
 拉库命令：ql repo https://github.com/nanxiafenglai/nxfl.git "^nxfl" "" "nxfl"
 
