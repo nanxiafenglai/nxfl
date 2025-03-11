@@ -1,7 +1,7 @@
 # nxfl99
 个人菜鸟，个人制作及网络搜集，脚本问题较多，不推荐使用
 
-拉库命令：ql repo https://github.com/nanxiafenglai/nxfl.git "^nxfl" "" "nxfl"
+拉库命令：ql repo https://github.com/nanxiafenglai/nxfl.git "^nxfl" "" "nxfl|Ruishu|瑞数通杀"
 
 ## 请喝茶 ?
 如果你觉得作者很棒，你可以打赏他  
