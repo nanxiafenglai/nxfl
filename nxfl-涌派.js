@@ -1,6 +1,7 @@
-//Mon Mar 10 2025 01:36:13 GMT+0000 (Coordinated Universal Time)
-//Base:https://github.com/echo094/decode-js
-//Modify:https://github.com/smallfawn/decode_action
+/**
+ * cron "8 8,14,22 * * *" YongPai.js
+ * export YongPai="账号1&密码1&支付宝姓名1&支付宝账号1&设备id1 账号2&密码2&支付宝姓名2&支付宝账号2&设备id2"
+ */
 const $ = new Env("甬派");
 const notify = $.isNode() ? require("../sendNotify") : "";
 (() => {
