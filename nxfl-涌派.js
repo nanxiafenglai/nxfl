@@ -3,7 +3,6 @@
  * export YongPai="账号1#密码1#支付宝姓名1#支付宝账号1#设备id1&账号2#密码2#支付宝姓名2#支付宝账号2#设备id2"
  */
 
-
 const $ = new Env("甬派");
 const notify = $.isNode() ? require("../sendNotify") : "";
 (() => {
